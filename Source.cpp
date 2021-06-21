@@ -2,6 +2,8 @@
 #include <Windows.h>
 #include <time.h>
 
+//stdafx.h is not needed you can remove it if you want
+
 int main()
 {
 	FreeConsole();
